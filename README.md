@@ -1,4 +1,4 @@
-# Power Apps copy to clipboard as HTML
+# PowerApps component for copy to clipboard as HTML
 This component contains just button with function which copy text as html. It is copy value from HTMLText property. Built-in PowerApps function can copy only raw text, so it can be helpful when you want copy text with formatting.
 
 ![Component](/Docs/component.png?raw=true "Component") 
